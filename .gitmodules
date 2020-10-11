@@ -1,0 +1,21 @@
+[submodule "devops/terraform"]
+	path = devops/terraform
+	url = https://github.com/asquarezone/TerraformZone.git
+[submodule "devops/chef"]
+	path = devops/chef
+	url = https://github.com/asquarezone/ChefZone.git
+[submodule "devops/ansible"]
+	path = devops/ansible
+	url = https://github.com/asquarezone/AnsibleZone.git
+[submodule "aws/developer"]
+	path = aws/developer
+	url = https://github.com/asquarezone/awsdev.git
+[submodule "azure/developer"]
+	path = azure/developer
+	url = https://github.com/asquarezone/azuredev.git
+[submodule "azure/armtemplates"]
+	path = azure/armtemplates
+	url = https://github.com/asquarezone/ARMZone.git
+[submodule "aws/cloudformation"]
+	path = aws/cloudformation
+	url = https://github.com/asquarezone/CloudFormationTemplates.git
